@@ -33,14 +33,6 @@ Geography, Gender, EstimatedSalary
 ✅ Ensemble Learning (Voting & Stacking Classifiers)
 ✅ Data Preprocessing (Label Encoding, Standardization)
 
-📌 Model Performance
-Model             	Accuracy  Precision	  Recall	 F1-Score
-Logistic Regression	80.5%	    58.6%	      14.3%	   22.9%
-Random Forest	      86.1%	    72.4%	      38.5%	   50.2%
-XGBoost	            87.2%	    75.1%	      41.8%	   53.9%
-Gradient Boosting	  86.7%	    74.2%	      39.9%	   51.8%
-Voting Classifier	  88.0%	    76.5%	      44.2%	   56.1%
-Stacking Classifier	88.5%	    77.3%	      46.0%	   58.2%
 
 
 ![image](https://github.com/user-attachments/assets/4f9270cc-bd24-4b93-9b51-34763d579cf1)
