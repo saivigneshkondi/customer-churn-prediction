@@ -42,6 +42,10 @@ Gradient Boosting	  86.7%	    74.2%	      39.9%	   51.8%
 Voting Classifier	  88.0%	    76.5%	      44.2%	   56.1%
 Stacking Classifier	88.5%	    77.3%	      46.0%	   58.2%
 
+
+![image](https://github.com/user-attachments/assets/4f9270cc-bd24-4b93-9b51-34763d579cf1)
+
+
 📌 Stacking Classifier performs best with 88.5% accuracy! 🎯
 
 📊 Visualizations
