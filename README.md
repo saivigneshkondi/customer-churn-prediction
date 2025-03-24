@@ -29,8 +29,15 @@ Geography, Gender, EstimatedSalary
 
 🛠️ Technologies Used
 ✅ Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn)
+
+
+
 ✅ Machine Learning (Logistic Regression, Random Forest, XGBoost, Gradient Boosting)
+
+
 ✅ Ensemble Learning (Voting & Stacking Classifiers)
+
+
 ✅ Data Preprocessing (Label Encoding, Standardization)
 
 
