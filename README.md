@@ -5,11 +5,23 @@ Project Overview
 This project predicts whether a customer will discontinue a subscription-based service using machine learning models. The dataset consists of customer details such as age, tenure, balance, credit score, and activity status.
 
 To improve accuracy, we use Ensemble Learning models like:
+
+
 ✅ Logistic Regression (Baseline Model)
+
+
 ✅ Random Forest (Bagging)
+
+
 ✅ XGBoost & Gradient Boosting (Boosting)
+
+
 ✅ Voting Classifier (Aggregating multiple models)
+
+
 ✅ Stacking Classifier (Combining models using meta-learning)
+
+
 
 📂 Dataset
 Source: Churn_Modelling.csv
@@ -28,6 +40,8 @@ Geography, Gender, EstimatedSalary
 
 
 🛠️ Technologies Used
+
+
 ✅ Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn)
 
 
