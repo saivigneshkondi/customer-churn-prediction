@@ -1,7 +1,11 @@
  Customer Churn Prediction using Machine Learning
+
+ 
 🚀 A Machine Learning project to predict customer churn using Ensemble Learning techniques.
 
 Project Overview
+
+
 This project predicts whether a customer will discontinue a subscription-based service using machine learning models. The dataset consists of customer details such as age, tenure, balance, credit score, and activity status.
 
 To improve accuracy, we use Ensemble Learning models like:
@@ -62,8 +66,14 @@ Geography, Gender, EstimatedSalary
 📌 Stacking Classifier performs best with 88.5% accuracy! 🎯
 
 📊 Visualizations
+
+
 📌 Confusion Matrices for Voting & Stacking Classifiers
+
+
 📌 Feature Importance Plot (Random Forest)
+
+
 📌 Bar Chart Comparing Model Performance
 
 
